@@ -1,6 +1,6 @@
 package ru.ubrr.emptyproject;
 
-import games.Slot;
+//import games.Slot;
 
-public class Emptytestclass extends Slot {
+public class Emptytestclass {
 }
